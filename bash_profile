@@ -1,3 +1,5 @@
+source ~/.bashrc
+
 # added by Anaconda 1.7.0 installer
 export PATH="/Users/plotnick/anaconda/bin:$PATH"
 export CLICOLOR=1
